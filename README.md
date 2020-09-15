@@ -1,2 +1,2 @@
-# class-21-ting
-functions and arguments
+# p5.play-boilerplate
+Boiler plate for p5.play
